@@ -1,6 +1,6 @@
 package Java_Core.Module_2;
 //классы находятся в одном пакете
-public class Module_2_Access_Сontrol {
+public class Access_Сontrol {
 }
 
 class Test {

@@ -1,6 +1,6 @@
 package Java_Core.Module_2;
 
-public class Module_2_String {
+public class StringObject {
     public static void main(String[] args) {
         //При работе со строками важно понимать, что объект String является неизменяемым (immutable).
         // То есть при любых операциях над строкой, которые изменяют эту строку, фактически будет создаваться новая строка.

@@ -1,6 +1,6 @@
 package Java_Core.Module_2;
 
-public class Module_2_МуAnnotation {
+public class МуAnnotation {
     public static void main(String[] args) {
         String s1 = "string";
         String s2 = "left" + s1;

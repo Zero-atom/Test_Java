@@ -1,6 +1,6 @@
 package Java_Core.Module_2;
 
-public class Module_2_Abstract_Сlasses {
+public class Abstract_Сlasses {
 }
 
 // Объявление абстрактного класса

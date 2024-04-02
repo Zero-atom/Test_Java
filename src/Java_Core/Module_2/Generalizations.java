@@ -1,6 +1,6 @@
 package Java_Core.Module_2;
 
-public class Module_2_Generalizations {
+public class Generalizations {
     void main(String[] args) {
         //Создадим объект класса Box:
         Box1<Integer> integerBox = new Box1<>();

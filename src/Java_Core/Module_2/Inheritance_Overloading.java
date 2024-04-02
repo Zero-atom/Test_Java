@@ -1,6 +1,6 @@
 package Java_Core.Module_2;
 
-public class Module_2_Inheritance_Overloading {
+public class Inheritance_Overloading {
 
     public static void main(String[] args) {
 //        MountainBike bike = new MountainBike(1,3,4,5);

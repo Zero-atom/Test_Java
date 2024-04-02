@@ -1,6 +1,6 @@
 package Java_Core.Module_2;
 
-public class Module_2_Packages_Interfaces {
+public class Packages_Interfaces {
 }
 
 //вложенный интерфейс
