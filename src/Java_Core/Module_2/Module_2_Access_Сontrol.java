@@ -1,4 +1,4 @@
-package Java_Core;
+package Java_Core.Module_2;
 //классы находятся в одном пакете
 public class Module_2_Access_Сontrol {
 }

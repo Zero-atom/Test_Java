@@ -1,4 +1,4 @@
-package Java_Core;
+package Java_Core.Module_2;
 
 public class Module_2_Packages_Interfaces {
 }
