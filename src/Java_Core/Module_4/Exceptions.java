@@ -1,4 +1,4 @@
-package Java_Core.Module_4_Key_Mechanisms;
+package Java_Core.Module_4;
 
 public class Exceptions {
 }
