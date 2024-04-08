@@ -1,8 +1,6 @@
 package Java_Core_Test_Tasks;
 
 import java.io.IOException;
-import java.util.Arrays;
-import java.util.List;
 import java.util.function.Consumer;
 
 
