@@ -128,6 +128,13 @@ class BlockLambdaDemo1 {
                 result = i * result;
             }
             return result;
+//            (Integer i) -> i;
+//
+//            (int i) -> i++; return i;
+//
+//            ()-> return;
+//
+//            String a, String b -> System.out.print(a+ b);
         };
         System.out.println("Фaктopиaл числа 3 равен " + factorial.apply(3));
         System.out.println("Фaктopиaл числа 5 равен " + factorial.apply(5));
